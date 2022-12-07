@@ -7,7 +7,7 @@ The problem that this script solves is to make it easier to aggregate all of the
 
 ## Visuals 👀
 
-
+![image](https://user-images.githubusercontent.com/537287/206267183-8e47fd01-faa4-4cd3-9a93-65113079e21d.png)
 
 ## Versions
 
