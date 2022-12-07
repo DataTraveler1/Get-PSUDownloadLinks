@@ -3,11 +3,12 @@ Scrapes the list of current download links for PowerShell Universal on ironmanso
 
 ## Purpose
 
-The problem that this script solves is to make it easier to aggregate all of the possible current download links for PowerShell Universal on ironmansoftware.com
+The problem that this function solves is to make it easier to aggregate all of the possible current download links for PowerShell Universal on ironmansoftware.com
 
 ## Visuals 👀
 
 ![image](https://user-images.githubusercontent.com/537287/206267183-8e47fd01-faa4-4cd3-9a93-65113079e21d.png)
+###### This a PowerShell function which is intended to be dot-source loaded
 
 ## Versions
 
